@@ -5,3 +5,15 @@
 - I have 0 cats :(
 - But I have one duck for programming :)
 
+- h
+- e
+- l
+- l
+- o
+
+- w
+- o
+- r
+- l
+- d
+- !
