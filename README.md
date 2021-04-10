@@ -1,7 +1,9 @@
-# Hi! :wave:
-- I’m currently working as a junior programmer in the [@VK](https://github.com/VKCOM/) team on the [NoVerify](https://github.com/VKCOM/noverify) static analyzer;
-- I write in Go ʕ◔ϖ◔ʔ and a bit C++;
+# Hi there :wave:
+
+I am interested in :pencil: **static analysis**, :hammer: **compilers** and :wrench: **developer tools**.
+
+- I’m currently working as a junior programmer in the [@VK (vk.com)](https://github.com/VKCOM/) team on the [NoVerify](https://github.com/VKCOM/noverify) static analyzer and [KPHP](https://github.com/VKCOM/kphp) compiler;
+- I write in Go ʕ◔ϖ◔ʔ and C++;
 - I enjoy playing [chess](https://lichess.org/@/Makhneff), shogi (Japanese chess) and skiing;
-- I enjoy designing;
-- I have 0 cats; :(
-- But I have one duck for programming. :)
+- I enjoy designing and 3D modeling;
+- I have 0 cats; :( But I have one duck for programming. :)
