@@ -1,16 +1,16 @@
 # Hi there :wave:
 
-I'm interested in :pencil: **static analysis**, :hammer: **compilers**, :wrench: **developer tools** and :electric_plug: IntelliJ-based **plugins**.
+Developer with more than 4 years of experience. From the very beginning of my career, I have been involved in one way or another with things related to compilers or static analysis of languages.
 
-I'm currently working in the PhpStorm team at JetBrains.
+I have experience in the following areas:
 
-Previously I'm working on VK developer tools such as [NoVerify](https://github.com/VKCOM/noverify) (related to fork of [php-parser](https://github.com/VKCOM/php-parser)), a static analyzer for PHP that is capable of checking over 8 million lines for each MR. Experimental [NoColor](https://github.com/VKCOM/nocolor) architecture validator on KPHP team concept of colors. And plugins like [AdmStorm](https://github.com/VKCOM/admstorm), [NoColor](https://github.com/i582/nocolor-phpstorm), [KPHPStorm](https://github.com/unserialize/kphpstorm) or [Modulite](https://github.com/VKCOM/modulite) for PhpStorm to make it easier for developers to write code. I also do a little work on compiler [KPHP](https://github.com/VKCOM/kphp) for PHP which translates it into C++, thereby speeding it up at times.
+- Writing lexers and parsers for various languages (PHP, Golang, TypeScript). From scratch and using generators such as Bison. Including for a huge amount of code (8 million lines of PHP code). I also have experience in writing grammars for two languages ([V](https://github.com/v-analyzer/v-analyzer/blob/main/tree_sitter_v/grammar.cjs), Spawn*) from scratch for Tree-sitter.
+- Writing static analyzers ([NoVerify](https://github.com/VKCOM/noverify), [NoColor](https://github.com/VKCOM/nocolor))
+- Writing compilers (Spawn*, [KPHP](https://github.com/VKCOM/kphp)), understand the concepts of SSA, IR, CFG, DFA
+- Writing plugins for JetBrains IDEs, from scratch: [AdmStorm](https://github.com/VKCOM/admstorm), [NoColor](https://github.com/i582/nocolor-phpstorm), [Modulite]( https://github.com/VKCOM/modulite), [Vlang](https://plugins.jetbrains.com/plugin/20287-vlang), Spawn*, including experience working on PhpStorm at JetBrains
+- Writing plugins for VS Code: [v-analyzer](https://marketplace.visualstudio.com/items?itemName=VOSCA.vscode-v-analyzer) and spawn-analyzer*
+- Writing Language Servers: [v-analyzer](https://github.com/v-analyzer/v-analyzer) and spawn-analyzer*
+- Writing specifications and documentation for the language (Spawn*)
+- Writing additional tools for the language (spawnfmt\*, spawnpkg\*, spawnup\*, spawnprof\*)
 
-I use Go ʕ◔ϖ◔ʔ, C++, Kotlin, Java, and excellent IDEs from JetBrains for writing code.
-
-Also:
-
-- I enjoy playing [chess](https://lichess.org/@/Makhneff), shogi (Japanese chess) and alpine skiing;
-- I enjoy designing and 3D modeling;
-- I have one duck for programming.
-
+\* Not released yet
