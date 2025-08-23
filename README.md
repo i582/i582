@@ -16,5 +16,6 @@ I have experience in the following areas:
 - Writing plugins for VS Code: [v-analyzer](https://marketplace.visualstudio.com/items?itemName=VOSCA.vscode-v-analyzer), spawn-analyzer, [Tact](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact) and [TON (Tolk, FunC, Fift, TL-B)](https://marketplace.visualstudio.com/items?itemName=ton-core.vscode-ton)
 - Writing Language Servers: [v-analyzer](https://github.com/v-analyzer/v-analyzer), spawn-analyzer, [Tact](https://github.com/tact-lang/tact-language-server) and [TON (Tolk, FunC, Fift, TL-B)](https://github.com/ton-blockchain/ton-language-server)
 - Writing formatters: spawnfmt, [tactfmt](https://github.com/tact-lang/tact/tree/main/src/fmt) and [tolkfmt](https://github.com/i582/tolkfmt)
-- Writing specifications and documentation for the language (Spawn)
+- Writing specifications and documentation for the languages: Spawn, [TON Assembly](https://txtracer.ton.org/spec/)
 - Writing additional tools for the language (spawnfmt, spawnpkg, spawnup, spawnprof)
+- Writing developers tooling: [TON Transaction Retracer/Time-travel debugger for onchain treansactions](https://txtracer.ton.org), [TON Assembly and FunC playground](https://txtracer.ton.org/play/), [Godbolt-like explorer for FunC](https://txtracer.ton.org/code-explorer/), [Web interface for local TON testing](https://txtracer.ton.org/sandbox/)
