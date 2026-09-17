@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I'm a software engineer with more than 5 years of experience. From the very beginning of my career, I have been involved in one way or another with things related to compilers, static analysis and tooling for programming languages. A wide range of knowledge and skills allows me not only to create something new, but also to make it familiar and convenient for the developers who will use it.
+I'm a software engineer with more than 6 years of experience. From the very beginning of my career, I have been involved in one way or another with things related to compilers, static analysis and tooling for programming languages. A wide range of knowledge and skills allows me not only to create something new, but also to make it familiar and convenient for the developers who will use it.
 
 I have experience in the following areas:
 
